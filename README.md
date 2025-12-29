@@ -245,7 +245,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 For questions, suggestions, or support:
 - Create an issue in the GitHub repository
-- Email: your.email@example.com
+- Email:  quandinh3011@gmail.com
 - Project Link: [https://github.com/yourusername/flutter_english_learning_app](https://github.com/yourusername/flutter_english_learning_app)
 
 ## 🙏 Acknowledgments
@@ -265,5 +265,4 @@ For questions, suggestions, or support:
 ---
 
 **Made with ❤️ using Flutter**
-#   l e a r n - l a n g u a g e - w i t h - f l u t t e r  
- 
+
