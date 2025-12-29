@@ -1,7 +1,7 @@
 # English Learning App with AI Assistant 🎓📱
 
 A comprehensive Flutter-based mobile application designed to help users learn English through interactive scenarios, AI-powered conversations, and personalized study plans. This app combines modern UI/UX design with powerful AI capabilities to create an engaging and effective language learning experience.
-![Uploading image.png…]()
+[Uploading image.png…]()
 
 
 ## 🌟 Features
@@ -267,5 +267,6 @@ For questions, suggestions, or support:
 ---
 
 **Made with ❤️ using Flutter**
+
 
 
