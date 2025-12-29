@@ -109,8 +109,8 @@ lib/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/flutter_english_learning_app.git
-   cd flutter_english_learning_app
+   git clone https://github.com/quandangiu/learn-language-with-flutter.git
+   cd learn-language-with-flutter
    ```
 
 2. **Install dependencies**
@@ -187,6 +187,22 @@ The AI chat feature uses Hugging Face's inference API. Make sure to:
 
 ## 📱 App Screenshots
 
+### Home Screen
+The main dashboard provides quick access to all learning features and displays your progress:
+
+![Home Screen](screenshots/home_screen.png)
+
+**Key Features Shown:**
+- 🏠 **Personalized Greeting**: Welcome message with user's name
+- 📊 **Study Statistics**: 
+  - Consecutive study days tracker
+  - Total study hours
+  - Completed courses counter
+- 📅 **Daily Progress**: Real-time tracking of today's study goals with visual progress bar
+- 🎯 **Current Study Courses**: Quick access to ongoing lessons
+- 💡 **Recommended Courses**: Personalized course suggestions
+- 🤖 **AI Assistant**: Direct access to AI-powered learning chat
+
 ### Main Features
 - 🏠 **Home Screen**: Quick access to all learning modules
 - 💬 **AI Chat**: Interactive conversation with AI tutor
@@ -248,7 +264,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 For questions, suggestions, or support:
 - Create an issue in the GitHub repository
 - Email:  quandinh3011@gmail.com
-- Project Link: [https://github.com/yourusername/flutter_english_learning_app](https://github.com/yourusername/flutter_english_learning_app)
+- Project Link: [https://github.com/quandangiu/learn-language-with-flutter](https://github.com/quandangiu/learn-language-with-flutter)
 
 ## 🙏 Acknowledgments
 
